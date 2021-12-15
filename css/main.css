@@ -41,12 +41,12 @@ section{
 
 
 
-.btn{
+.btn {
     cursor: pointer;
     border: 0;
-    padding: 6px, 12px;
-    border-radius: 3px;
+    padding: 6px 12px;
     line-height: 1.4;
+    border-radius: 3px;
 }
 
 .btn-default{
@@ -62,7 +62,7 @@ section{
 
 .form-control{
     display: block;
-    padding: 6px,12px;
+    padding: 6px 12px;
     border: #a0a0a0 solid 1px;
     color: #8598a2;
     line-height: 1.4;
